@@ -44,23 +44,21 @@ Desktop.ini
 ######################
  
 *.pydevproject
-.project
-.metadata
-bin/**
+**/.project
+**/.metadata
 **/bin/**
-tmp/**
 **/tmp/**
-tmp/**/*
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.classpath
-.settings/
-.loadpath
+**/tmp/**/*
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.nib
+**/local.properties
+**/.classpath
+**/.settings/
+**/.loadpath
 # External tool builders
-.externalToolBuilders/
+**/.externalToolBuilders/
  
 # Locally stored "Eclipse launch configurations"
 *.launch
